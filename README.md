@@ -1,2 +1,2 @@
 # odin-recipes
-resep masakan
+Project pertama web resep makanan odin project
